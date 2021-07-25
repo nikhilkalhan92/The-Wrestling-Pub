@@ -37,11 +37,26 @@ h1, h2 {
 
 #menu, #logo {
     line-height: 75px;
-}
+}   
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+    font-weight: bold;
+
+}   
 
 #menu li{
     float: right;
     margin-right: 30px;
     color: burlywood
     
+}
+
+#menu a:hover {
+    border-bottom: 1px solid burlywood;
+}
+
+#active {
+    border-bottom: 1px solid burlywood;
 }
