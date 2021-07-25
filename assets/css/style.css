@@ -60,3 +60,26 @@ h1, h2 {
 #active {
     border-bottom: 1px solid burlywood;
 }
+
+/*  ring-image */
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+
+
+#ring-image { height: 750px;
+              background-image: url('/assets/css/images/ring.jpg');
+              background-repeat: no-repeat;    
+            background-size: cover;    
+            max-width: 100%;    
+            background-position: top center;
+             
+
+}
+
