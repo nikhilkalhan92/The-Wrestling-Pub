@@ -155,5 +155,8 @@ footer {
         font-family: cursive;
     }
     
+    .container {
+        image-orientation: initial;
+        text-align::justify }
   
 
