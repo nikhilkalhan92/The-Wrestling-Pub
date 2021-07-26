@@ -71,10 +71,14 @@ h1, h2 {
               max-width: 100%;    
              background-position: top center;
              }
-.container {
-                image-orientation: initial;
-                text-align::justify
-            }
+.top-right {
+                position: absolute;
+                top: 100px;
+                right: 1px;
+                padding: 1px 1px 1px  1px;
+                font-size: 9px;
+              }
+
 
 */ about */
 
@@ -130,5 +134,26 @@ footer {
     color: burlywood;
     position: center;
 }
+
+/* Media Queries */
+
+@media screen and  (min-width: 400px) and ( max-width: 800px) {
+    #logo {
+        float: left;
+        font-size: 80%;
+        margin-left: 20px;
+        margin-bottom: -50px;
+        color: grey;
+    }
+    .centered {
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: burlywood;
+        font-size: 75%;
+        font-family: cursive;
+    }
+    
   
 
