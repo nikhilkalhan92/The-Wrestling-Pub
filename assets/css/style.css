@@ -10,7 +10,7 @@
 body {
     font-family: Lato , sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: burlywood;
 
 }
 
@@ -145,18 +145,8 @@ footer {
         margin-bottom: -50px;
         color: grey;
     }
-    .centered {
-        position: absolute;
-        top: 30%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        color: burlywood;
-        font-size: 75%;
-        font-family: cursive;
-    }
     
-    .container {
-        image-orientation: initial;
-        text-align::justify }
+    
+    
   
 
