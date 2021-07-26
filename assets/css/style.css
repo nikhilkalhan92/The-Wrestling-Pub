@@ -63,23 +63,48 @@ h1, h2 {
 
 /*  ring-image */
 
-#hero-outer {
-    height: 600px;
-    width: 100%;
-    overflow: hidden;
-
-    position: relative;
-}
-
-
-
 #ring-image { height: 750px;
               background-image: url('/assets/css/images/ring.jpg');
               background-repeat: no-repeat;    
-            background-size: cover;    
-            max-width: 100%;    
-            background-position: top center;
+              background-size: cover;    
+              max-width: 100%;    
+             background-position: top center;
              
 
 }
+
+*/ about */
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  
+  .top-right {
+    position: absolute;
+    top: 100px;
+    right: 16px;
+    padding: 100px 84px 75px 100px;
+    font-size: larger;
+  }
+
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: larger;
+  }
+
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: burlywood;
+    font-size: 150%;
+    font-family: cursive;
+}
+  
 
