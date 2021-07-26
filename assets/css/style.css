@@ -70,6 +70,7 @@ h1, h2 {
               background-size: cover;    
               max-width: 100%;    
              background-position: top center;
+
              }
 .top-right {
                 position: absolute;
@@ -86,7 +87,8 @@ h1, h2 {
     position: relative;
     text-align: center;
     color: white;
-  }
+
+}
   
   .top-right {
     position: absolute;
@@ -94,6 +96,7 @@ h1, h2 {
     right: 16px;
     padding: 100px 84px 75px 100px;
     font-size: larger;
+    
   }
 
   .top-left {
@@ -101,6 +104,7 @@ h1, h2 {
     top: 8px;
     left: 16px;
     font-size: larger;
+    
   }
 
 
@@ -112,6 +116,8 @@ h1, h2 {
     color: burlywood;
     font-size: 150%;
     font-family: cursive;
+    
+    
 }
 
 /* footer */
