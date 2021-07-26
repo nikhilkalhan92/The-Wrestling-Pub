@@ -138,6 +138,7 @@ footer {
 /* Media Queries */
 
 @media screen and  (min-width: 400px) and ( max-width: 800px) {
+    
     #logo {
         float: left;
         font-size: 80%;
@@ -145,7 +146,23 @@ footer {
         margin-bottom: -50px;
         color: grey;
     }
-    
+    .centered {
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: burlywood;
+        font-size: 75%;
+        font-family: cursive;
+    }
+    footer {
+        height: 80px;
+        font-size: smaller;
+    }
+    #menu {
+    font-size: 75%;
+    letter-spacing: 1px;
+}
     
     
   
