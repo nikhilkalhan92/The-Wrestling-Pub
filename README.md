@@ -6,15 +6,15 @@ A link to the final website - `https://nikhilkalhan92.github.io/The-Wrestling-Pu
 
 ## 1. INITIAL DESIGN
 
-- I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as defunct companies like WCW). I knew I wanted to a project wrestling elated, and I decided My first project will be a wrestling themed bar in the heart of London.
+- I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as defunct companies like WCW). I knew, I wanted to a project wrestling elated, and I decided My first project will be a wrestling themed bar in the heart of London.
 
 
 
 ###### The Main features would include
 
 -Background Pictures - wrestling related
-Navigation Menu
-Quick information the user needs ( About, Menu and Openings)
+-Navigation Menu
+-Quick information the user needs ( About, Menu and Openings)
 
 
 
@@ -43,7 +43,15 @@ Quick information the user needs ( About, Menu and Openings)
 
   ###### COLOR SCHEME
 
-  The Colours I used were black and Burlywood - easy to blend in and easy on the eye for the viewer.
+  The Colours I used were black and Burlywood - I used burleywood, because with black in the background the information really stands out, and catches the viewer at first glance.
+
+FEATURES
+I have used the following features in this project
+
+Hover
+
+Tells the user the location of the mouse whilst navigating the menu.
+Helps the user not lose their place.
 
   
   
@@ -92,10 +100,6 @@ Quick information the user needs ( About, Menu and Openings)
   I used [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) to check for any errors within my HTML pages.
 
   I used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to check for any error within my CSS stylesheet.
-
-
-
-
 
 # 5. Deployment
 
