@@ -4,13 +4,13 @@ A link to the final website - `https://nikhilkalhan92.github.io/The-Wrestling-Pu
 
 
 
-## 1. INITIAL DESIGN
+### 1. INITIAL DESIGN
 
 - I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as defunct companies like WCW). I knew, I wanted to a project wrestling elated, and I decided My first project will be a wrestling themed bar in the heart of London.
 
 
 
-###### The Main features would include
+#### The Main features would include
 
 -Background Pictures - wrestling related
 -Navigation Menu
@@ -18,48 +18,55 @@ A link to the final website - `https://nikhilkalhan92.github.io/The-Wrestling-Pu
 
 
 
-## 2.FINAL DESIGN
+### 2. FINAL DESIGN
+
+WIREFRAMES
+
+Here is my wirefame for the website
 
 
 
-## USER EXPERIENCE
+### 3.USER EXPERIENCE
 
-###### Aims
+## Aims
 
 - The site needs to be easy to use
 - Moving the mouse around the site needs to be simple
 - The site needs to provide the information needs when visiting the website ( About, Menu and contact details)
 - Images that show what the bar looks like inside and the layout 
 
-###### First Time Visitors
+## First Time Visitors
 
 - The browser must find the website easy to use
-
 - I want the browser to understand what the place is about/what we offer
 
   
 
-  ###### Design
+## Design
 
-  ###### COLOR SCHEME
+  ## COLOR SCHEME
 
   The Colours I used were black and Burlywood - I used burleywood, because with black in the background the information really stands out, and catches the viewer at first glance.
 
-FEATURES
+ 
+
+## FEATURES
 I have used the following features in this project
 
-Hover
+## HOVER
 
 Tells the user the location of the mouse whilst navigating the menu.
 Helps the user not lose their place.
 
+## SOLVED BUGS
+
+I had quite a few errors after using the HTML Validator. I have amended them all and tied up the code.
+
+I had no errors on my CSS
+
   
   
-
-
-
-
-### 3. LANGUAGES USED
+### 4. LANGUAGES USED
 
 
 
@@ -89,7 +96,7 @@ Helps the user not lose their place.
 
   - GitHub was used to store the project's code after being pushed from Gitpush.
 
-  ## 4. Automated testing
+  ### 5. Automated testing
 
   ### Responsive Tools
 
@@ -114,3 +121,26 @@ I used GitHub pages to deploy my final project. To do this I had to:
 5. Click "Save", then wait for it to be deployed. 
 6. The URL will be displayed above the "source" section in GitHub Pages.
 
+
+
+
+
+
+
+
+
+
+### 6. CONTENT
+
+### IMAGES
+Images are provided by Google Images - I have provided the links
+
+https://www.wwe.com/f/styles/og_image/public/2020/04/EasterBunny_Thumb1--eac98896cfd9d059ec4683ae3cd9c145.jpg
+
+https://www.dartdesign.in/images/portfolio/wwe_1.jpg
+
+https://media.istockphoto.com/vectors/empty-wrestling-sport-arena-boxing-ring-dramatic-sports-vector-vector-id938635868?k=6&m=938635868&s=612x612&w=0&h=qwI-UZ-GDmF-kpgk9SlgZMOAU3SUN3bsfBELudXEowU=
+
+https://www.dartdesign.in/images/portfolio/wwe_2.jpg
+
+### 7. ACKNOWLEDGEMENTS:
