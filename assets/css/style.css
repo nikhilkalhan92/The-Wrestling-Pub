@@ -169,7 +169,15 @@ footer {
     font-size: 75%;
     letter-spacing: 1px;
 }
-    
+
+#reserved {
+    color: blue;
+
+}
+
+#copyright  {
+    color: blue;
+}
     
   
 
