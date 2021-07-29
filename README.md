@@ -24,6 +24,8 @@ WIREFRAMES
 
 Here is my wirefame for the website
 
+https://balsamiq.cloud/s2oqkrm/pvic387
+
 
 
 ### 3.USER EXPERIENCE
@@ -40,13 +42,11 @@ Here is my wirefame for the website
 - The browser must find the website easy to use
 - I want the browser to understand what the place is about/what we offer
 
-  
-
-## Design
+  ## Design
 
   ## COLOR SCHEME
 
-  The Colours I used were black and Burlywood - I used burleywood, because with black in the background the information really stands out, and catches the viewer at first glance.
+  The Colours I used were black and Burlywood - I used burlywood, because with black in the background the information really stands out, and catches the viewer at first glance.
 
  
 
@@ -60,15 +60,11 @@ Helps the user not lose their place.
 
 ## SOLVED BUGS
 
-I had quite a few errors after using the HTML Validator. I have amended them all and tied up the code.
+I had quite a few errors after using the HTML Validator. I have amended them all and made sure the code is all correct and neat.
 
 I had no errors on my CSS
 
-  
-  
 ### 4. LANGUAGES USED
-
-
 
 ### PROGRAMS USED:
 
@@ -107,6 +103,34 @@ I had no errors on my CSS
   I used [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) to check for any errors within my HTML pages.
 
   I used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to check for any error within my CSS stylesheet.
+
+  **TESTING**
+
+  **STYLING AND LAYOUT**
+Ensure carousel images loads correctly and functioning as expected.
+Ensure all images loads correctly.
+Ensure all backgrounds images load correctly.
+Ensure main page hearder loads correctly.
+
+**PAGES**
+
+Ensure all Navigation links are working in the Home page.
+Ensure all Navigation links are working in the Menu page.
+Ensure all Navigation links are working in the Contact Us page.
+Ensure all Footer links are working in the Home page.
+Ensure all Footer links are working in the Menu page.
+Ensure all Footer links are working in the Contact page.
+
+**RESPONSIVENESS**
+Ensure all Images and Content are responsive in the Home page.
+Ensure all Images and Content are responsive in the Menu.
+Ensure all Images and Content are responsive in the Contact Us page.
+Ensure all Text Content is readable in the Home page.
+Ensure all Text Content is readable in the Menu page.
+Ensure all Text Content is readable in the Contact Us page.
+
+
+
 
 # 5. Deployment
 

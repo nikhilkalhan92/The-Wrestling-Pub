@@ -151,7 +151,6 @@ footer {
 @media screen and (max-width: 1200px) {
     #container {
         width: 65%;
-        height: 1200px;
         margin: 0 auto;
     }
 
