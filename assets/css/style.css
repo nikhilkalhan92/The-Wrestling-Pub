@@ -141,9 +141,7 @@ footer {
     position: center;
 }
 
-/* Media Queries */
 
-@media screen and ( max-width: 800px) {
     
   /* Media queries */
 
@@ -161,14 +159,12 @@ footer {
 
     #left-about, #right-about {
         width: 100%;
-        float: left;
         padding: 0;
     }
 
     #center-about {
         clear: both;
         width: 100%;
-        float: left;
         padding: 0;
     }
 
