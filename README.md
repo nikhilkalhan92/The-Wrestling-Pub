@@ -108,7 +108,7 @@ I had no errors on my CSS
 
   **STYLING AND LAYOUT**
 Ensure carousel images loads correctly and functioning as expected.
-Ensure all images loads correctly.
+Ensure all images loads correctly.    
 Ensure all backgrounds images load correctly.
 Ensure main page hearder loads correctly.
 
