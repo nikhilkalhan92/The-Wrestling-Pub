@@ -1,4 +1,4 @@
-# MS1-Project - The Wrestling Pub
+### MS1-Project - The Wrestling Pub
 
 A link to the final website - `https://nikhilkalhan92.github.io/The-Wrestling-Pub/`
 
@@ -30,37 +30,39 @@ https://balsamiq.cloud/s2oqkrm/pvic387/rC0F6
 
 ### 3.USER EXPERIENCE
 
-## Aims
+### Aims
 
 - The site needs to be easy to use
 - Moving the mouse around the site needs to be simple
 - The site needs to provide the information needs when visiting the website ( About, Menu and       contact details)
 - Images that show what the bar looks like inside and the layout 
 
-## First Time Visitors
+### First Time Visitors
 
 - The browser must find the website easy to use
 - I want the browser to understand what the place is about/what we offer
 
-  ## Design
+  ### Design
 
-  ## COLOR SCHEME
+  ### COLOR SCHEME
 
   The Colours I used were black and Burlywood - I used burlywood, because with black in the background the information really stands out, and catches the viewer at first glance.
 
-  assets/css/images/burlywood.png 
+  https://www.color-hex.com/color/252525
+
+  https://www.color-hex.com/color/deb887
 
  
 
-## FEATURES
+### FEATURES
 I have used the following features in this project
 
-## HOVER
+### HOVER
 
 Tells the user the location of the mouse whilst navigating the menu.
 Helps the user not lose their place.
 
-## SOLVED BUGS
+### SOLVED BUGS
 
 I had quite a few errors after using the HTML Validator. I have amended them all and made sure the code is all correct and neat.
 
@@ -88,7 +90,7 @@ I had no errors on my CSS
 
 - Google Fonts
 
-  - Google fonts were used to import the "Roboto" font into the style.css file which is used on all pages throughout the project.
+  - Google fonts were used to import the "Lato/Sans-Sarif" font into the style.css file which is used on all pages throughout the project.
 
 - GitHub
 
@@ -151,9 +153,7 @@ I had no errors on my CSS
   Ensure all Text Content is readable in the Contact Us page.
 
 
-
-
-# 5. Deployment
+### 6. Deployment
 
 I used GitHub pages to deploy my final project. To do this I had to:
 
@@ -164,8 +164,15 @@ I used GitHub pages to deploy my final project. To do this I had to:
 5. Click "Save", then wait for it to be deployed. 
 6. The URL will be displayed above the "source" section in GitHub Pages.
 
+HOW TO FORK A REPOSITORY
+If you need to make a copy of a repository:
 
-### 6. CONTENT
+Login or Sign Up to GitHub.
+On GitHub, go to nikhilkalhan92/MS1-Project.
+In the top right corner, click "Fork".
+
+
+### 7. CONTENT
 
 ### IMAGES
 Images are provided by Google Images - I have provided the links
@@ -178,4 +185,4 @@ https://media.istockphoto.com/vectors/empty-wrestling-sport-arena-boxing-ring-dr
 
 https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 
-### 7. ACKNOWLEDGEMENTS:
+### 8. ACKNOWLEDGEMENTS:
