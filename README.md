@@ -24,7 +24,7 @@ WIREFRAMES
 
 Here is my wirefame for the website
 
-https://balsamiq.cloud/s2oqkrm/pvic387
+https://balsamiq.cloud/s2oqkrm/pvic387/rC0F6
 
 
 
@@ -34,7 +34,7 @@ https://balsamiq.cloud/s2oqkrm/pvic387
 
 - The site needs to be easy to use
 - Moving the mouse around the site needs to be simple
-- The site needs to provide the information needs when visiting the website ( About, Menu and contact details)
+- The site needs to provide the information needs when visiting the website ( About, Menu and       contact details)
 - Images that show what the bar looks like inside and the layout 
 
 ## First Time Visitors
@@ -47,6 +47,8 @@ https://balsamiq.cloud/s2oqkrm/pvic387
   ## COLOR SCHEME
 
   The Colours I used were black and Burlywood - I used burlywood, because with black in the background the information really stands out, and catches the viewer at first glance.
+
+  assets/css/images/burlywood.png 
 
  
 
@@ -107,34 +109,51 @@ I had no errors on my CSS
   **TESTING**
 
   **STYLING AND LAYOUT**
-Ensure carousel images loads correctly and functioning as expected.
-Ensure all images loads correctly.    
-Ensure all backgrounds images load correctly.
-Ensure main page hearder loads correctly.
+  Ensure carousel images loads correctly and functioning as expected.
+  Ensure all images loads correctly.    
+  Ensure all backgrounds images load correctly.
+  Ensure main page hearder loads correctly.
 
-**PAGES**
+  **NAVIGATION BAR**
 
-Ensure all Navigation links are working in the Home page.
-Ensure all Navigation links are working in the Menu page.
-Ensure all Navigation links are working in the Contact Us page.
-Ensure all Footer links are working in the Home page.
-Ensure all Footer links are working in the Menu page.
-Ensure all Footer links are working in the Contact page.
+  Click on The Wrestling Pup main page header to take us to the Home page from the Home page.
+	Click on The Wrestling Pub main page header to take us to the Home page from The Big Three page.
+	Click on The Wrestling Pub main page header to take us to the Home page from the Contact Us page.
 
-**RESPONSIVENESS**
-Ensure all Images and Content are responsive in the Home page.
-Ensure all Images and Content are responsive in the Menu.
-Ensure all Images and Content are responsive in the Contact Us page.
-Ensure all Text Content is readable in the Home page.
-Ensure all Text Content is readable in the Menu page.
-Ensure all Text Content is readable in the Contact Us page.
+  Click on Home button to take us to the Home page from the Home page.
+	Click on Home button to take us to the Home page from the History page.
+  Click on Home button to take us to the Home page from the Contact Us page.
+	
+	Click on Menu to take us to Menu from the Home page.
+	Click on Menu to take us to Menu from the Menu.
+	Click on Menu to take us to Menu from the Contact Us page.
+	
+  Click on the Contact Us button to take us to the Contact Us page from the Home page.
+  Click on the Contact Us button to take us to the Contact Us page from the Menu page.
+  Click on the Contact Us button to take us to the Contact Us page from the Contact Us page.
+
+
+  **PAGES**
+
+  Ensure all Navigation links are working in the Home page.
+  Ensure all Navigation links are working in the Menu page.
+  Ensure all Navigation links are working in the Contact Us page.
+  Ensure all Footer links are working in the Home page.
+  Ensure all Footer links are working in the Menu page.
+  Ensure all Footer links are working in the Contact page.
+
+  **RESPONSIVENESS**
+  Ensure all Images and Content are responsive in the Home page.
+  Ensure all Images and Content are responsive in the Menu.
+  Ensure all Images and Content are responsive in the Contact Us page.
+  Ensure all Text Content is readable in the Home page.
+  Ensure all Text Content is readable in the Menu page.
+  Ensure all Text Content is readable in the Contact Us page.
 
 
 
 
 # 5. Deployment
-
-[Go to the top](https://github.com/iKelvvv/MS1/blob/master/README.md#table-of-contents)
 
 I used GitHub pages to deploy my final project. To do this I had to:
 
@@ -144,14 +163,6 @@ I used GitHub pages to deploy my final project. To do this I had to:
 4. Choose which folder to deploy from, I used "/root".
 5. Click "Save", then wait for it to be deployed. 
 6. The URL will be displayed above the "source" section in GitHub Pages.
-
-
-
-
-
-
-
-
 
 
 ### 6. CONTENT
