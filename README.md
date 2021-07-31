@@ -23,8 +23,7 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 
 Wireframes
 
-Here is my wirefame for the website
-https://balsamiq.cloud/s2oqkrm/pvic387/rC0F6
+[Here is a link to my wireframe](https://balsamiq.cloud/s2oqkrm/pvic387/rC0F6)
 
 ### 3.USER EXPERIENCE
 
