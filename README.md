@@ -15,17 +15,17 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 
 *** The Main Features would include***
 
-Background Pictures which are wrestling related
-Navigation Menu
-Quick information the user needs ( About, Menu and Openings)
+1. Background Pictures which are wrestling related
+2. Navigation Menu
+3. Quick information the user needs ( About, Menu and Openings)
 
 ### 2. FINAL DESIGN
 
 Wireframes
 
-[Here is a image of my wireframe](assets/wireframes/wireframe1.PNG) 
-[Here is a image of my wireframe](assets/wireframes/wireframe2.PNG)
-[Here is a image of my wireframe](assets/wireframes/wireframe3.PNG)
+[Here is a image of my wireframe Index](assets/wireframes/wireframe1.PNG) 
+[Here is a image of my wireframe Menu](assets/wireframes/wireframe2.PNG)
+[Here is a image of my wireframe Contact](assets/wireframes/wireframe3.PNG)
 
 
 
@@ -49,16 +49,16 @@ The Colours I used were black and Burlywood - I used burlywood, because with bla
 [Here is a link to my main color](https://www.color-name.com/burlywood.color)
 
 ### FEATURES
-I have used the following features in this project
+1. I have used the following features in this project
 
 ### HOVER
-Tells the user the location of the mouse whilst navigating the menu.
-Helps the user not lose their place.
+1. Tells the user the location of the mouse whilst navigating the menu.
+2. Helps the user not lose their place.
 
 ### SOLVED BUGS
-I had quite a few errors after using the HTML Validator. I have amended them all and made sure the code is all correct and neat.
+1. I had quite a few errors after using the HTML Validator. I have amended them all and made sure the code is all correct and neat.
 
-I had no errors on my CSS
+2. I had no errors on my CSS
 
 ### 4. LANGUAGES USED
 
@@ -84,49 +84,49 @@ I had no errors on my CSS
 ### 5. Automated testing
 
 ### Responsive Tools
-I used Am I Responsive to make sure that all my pages are responsive to all devices.
+1. I used Am I Responsive to make sure that all my pages are responsive to all devices.
 
 ### W3C Validator Tools
-I used W3C Markup to check for any errors within my HTML pages.
-I used W3C CSS Validation to check for any error within my CSS stylesheet.
+1. I used W3C Markup to check for any errors within my HTML pages.
+2. I used W3C CSS Validation to check for any error within my CSS stylesheet.
 
 **TESTING**
 
 **STYLING AND LAYOUT***
-Ensure carousel images loads correctly and functioning as expected.
-Ensure all images loads correctly. 
-Ensure all backgrounds images load correctly.
-Ensure main page hearder loads correctly.
+1. Ensure carousel images loads correctly and functioning as expected.
+2. Ensure all images loads correctly. 
+3. Ensure all backgrounds images load correctly.
+4. Ensure main page hearder loads correctly.
 
 **NAVIGATION BAR**
-Click on The Wrestling Pup main page header to take us to the Home page from the Home page.
-Click on The Wrestling Pub main page header to take us to the Home page from The Big Three page.
-Click on The Wrestling Pub main page header to take us to the Home page from the Contact Us page.
-Click on Home button to take us to the Home page from the Home page.
-Click on Home button to take us to the Home page from the History page.
-Click on Home button to take us to the Home page from the Contact Us page.
-Click on Menu to take us to Menu from the Home page.
-Click on Menu to take us to Menu from the Menu.
-Click on Menu to take us to Menu from the Contact Us page.
-Click on the Contact Us button to take us to the Contact Us page from the Home page.
-Click on the Contact Us button to take us to the Contact Us page from the Menu page.
-Click on the Contact Us button to take us to the Contact Us page from the Contact Us page.
+1. Click on The Wrestling Pup main page header to take us to the Home page from the Home page.
+2. Click on The Wrestling Pub main page header to take us to the Home page from The Big Three page.
+3. Click on The Wrestling Pub main page header to take us to the Home page from the Contact Us page.
+4. Click on Home button to take us to the Home page from the Home page.
+5. Click on Home button to take us to the Home page from the History page.
+6. Click on Home button to take us to the Home page from the Contact Us page.
+7. Click on Menu to take us to Menu from the Home page.
+8. Click on Menu to take us to Menu from the Menu.
+9. Click on Menu to take us to Menu from the Contact Us page.
+10. Click on the Contact Us button to take us to the Contact Us page from the Home page.
+11. Click on the Contact Us button to take us to the Contact Us page from the Menu page.
+12. Click on the Contact Us button to take us to the Contact Us page from the Contact Us page.
 
 **PAGES**
-Ensure all Navigation links are working in the Home page.
-Ensure all Navigation links are working in the Menu page.
-Ensure all Navigation links are working in the Contact Us page.
-Ensure all Footer links are working in the Home page.
-Ensure all Footer links are working in the Menu page.
-Ensure all Footer links are working in the Contact page.
+1. Ensure all Navigation links are working in the Home page.
+2. Ensure all Navigation links are working in the Menu page.
+3. Ensure all Navigation links are working in the Contact Us page.
+4. Ensure all Footer links are working in the Home page.
+5. Ensure all Footer links are working in the Menu page.
+6. Ensure all Footer links are working in the Contact page.
 
 **RESPONSIVENESS**
-Ensure all Images and Content are responsive in the Home page.
-Ensure all Images and Content are responsive in the Menu.
-Ensure all Images and Content are responsive in the Contact Us page.
-Ensure all Text Content is readable in the Home page.
-Ensure all Text Content is readable in the Menu page.
-Ensure all Text Content is readable in the Contact Us page.
+1. Ensure all Images and Content are responsive in the Home page.
+2. Ensure all Images and Content are responsive in the Menu.
+3. Ensure all Images and Content are responsive in the Contact Us page.
+4. Ensure all Text Content is readable in the Home page.
+5. Ensure all Text Content is readable in the Menu page.
+6. Ensure all Text Content is readable in the Contact Us page.
 
 ### 6. Deployment
 
