@@ -143,34 +143,19 @@ footer {
 
 /* Media queries */
 
-/* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
-    #container {
-        width: 65%;
-        margin: 0 auto;
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media screen and (max-width: 992px) {
+    .column {
+      width: 50%;
     }
-
-    #welcome {
-        padding: 30px 0;
-        margin: 0;
+  }
+  
+  /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
     }
-
-    #left-about, #right-about {
-        width: 100%;
-        padding: 0;
-    }
-
-    #center-about {
-        clear: both;
-        width: 100%;
-        padding: 0;
-    }
-
-    hr {
-        display: none;
-    }
-}
-
+  }
     
   
 

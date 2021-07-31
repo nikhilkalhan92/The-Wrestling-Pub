@@ -15,15 +15,19 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 
 *** The Main Features would include***
 
--Background Pictures - wrestling related
--Navigation Menu
--Quick information the user needs ( About, Menu and Openings)
+Background Pictures which are wrestling related
+Navigation Menu
+Quick information the user needs ( About, Menu and Openings)
 
 ### 2. FINAL DESIGN
 
 Wireframes
 
-[Here is a link to my wireframe](https://balsamiq.cloud/s2oqkrm/pvic387/r2278)
+[Here is a image of my wireframe](assets/wireframes/wireframe1.PNG) 
+[Here is a image of my wireframe](assets/wireframes/wireframe2.PNG)
+[Here is a image of my wireframe](assets/wireframes/wireframe3.PNG)
+
+
 
 ### 3.USER EXPERIENCE
 
@@ -42,7 +46,7 @@ Wireframes
 ### COLOR SCHEME
 The Colours I used were black and Burlywood - I used burlywood, because with black in the background the information really stands out, and catches the viewer at first glance.
 
-![burlywood.png](/workspace/The-Wrestling-Pub/assets/css/images/burlywood.png)
+[Here is a link to my main color](https://www.color-name.com/burlywood.color)
 
 ### FEATURES
 I have used the following features in this project
@@ -156,4 +160,6 @@ https://media.istockphoto.com/vectors/empty-wrestling-sport-arena-boxing-ring-dr
 https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 
 ### 8. ACKNOWLEDGEMENTS:
+
+Many thanks 
 
