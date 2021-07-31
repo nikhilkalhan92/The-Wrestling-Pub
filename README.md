@@ -1,12 +1,15 @@
 ### MS1-Project - The Wrestling Pub
 
-Here is a link to my live site.
-[(https://nikhilkalhan92.github.io/The-Wrestling-Pub/)]
 
 ![GitHub contributors](https://img.shields.io/github/contributors/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/The-Wrestling-Pub)
+
+Here is a link to my live site.
+[(https://nikhilkalhan92.github.io/The-Wrestling-Pub/)]
+
+
 
 
 ### 1. INITIAL DESIGN
