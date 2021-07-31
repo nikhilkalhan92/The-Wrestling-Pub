@@ -1,5 +1,8 @@
 ### MS1-Project - The Wrestling Pub
-A link to the final website - https://nikhilkalhan92.github.io/The-Wrestling-Pub/
+
+Here is a link to my live site.
+[(https://nikhilkalhan92.github.io/The-Wrestling-Pub/)]
+
 
 ### 1. INITIAL DESIGN
 I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as defunct companies like WCW). I knew, I wanted to a project wrestling elated, and I decided My first project will be a wrestling themed bar in the heart of London.
@@ -33,8 +36,8 @@ https://balsamiq.cloud/s2oqkrm/pvic387/rC0F6
 
 ### COLOR SCHEME
 The Colours I used were black and Burlywood - I used burlywood, because with black in the background the information really stands out, and catches the viewer at first glance.
-https://www.color-hex.com/color/252525
-https://www.color-hex.com/color/deb887
+
+![burlywood.png](/workspace/The-Wrestling-Pub/assets/css/images/burlywood.png)
 
 ### FEATURES
 I have used the following features in this project
@@ -78,7 +81,6 @@ I used W3C Markup to check for any errors within my HTML pages.
 I used W3C CSS Validation to check for any error within my CSS stylesheet.
 
 **TESTING**
-
 
 **STYLING AND LAYOUT***
 Ensure carousel images loads correctly and functioning as expected.
