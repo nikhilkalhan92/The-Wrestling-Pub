@@ -4,11 +4,8 @@ Here is a link to my live site.
 [(https://nikhilkalhan92.github.io/The-Wrestling-Pub/)]
 
 ![GitHub contributors](https://img.shields.io/github/contributors/nikhilkalhan92/The-Wrestling-Pub)
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/nikhilkalhan92/The-Wrestling-Pub)
-
 ![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/The-Wrestling-Pub)
-
 ![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/The-Wrestling-Pub)
 
 
@@ -129,7 +126,7 @@ Ensure all Text Content is readable in the Contact Us page.
 ### 6. Deployment
 
 I used GitHub pages to deploy my final project. To do this I had to:
-1. Login or Sign Up to [GitHub] - https://nikhilkalhan92.github.io/The-Wrestling-Pub/contact.html.
+1. Login or Sign Up to [GitHub] - https://github.com/nikhilkalhan92/The-Wrestling-Pub
 2. Create a new repository named "MS1-Project - The Wrestling Pub".
 3. Once created, click on "Settings" on the navigation bar under the repository title.
 4. Choose which folder to deploy from, I used "/root".
@@ -148,6 +145,7 @@ If you need to make a copy of a repository:
 
 ### IMAGES
 Images are provided by Google Images - I have provided the links
+
 https://www.wwe.com/f/styles/og_image/public/2020/04/EasterBunny_Thumb1--eac98896cfd9d059ec4683ae3cd9c145.jpg
 
 https://www.dartdesign.in/images/portfolio/wwe_1.jpg
