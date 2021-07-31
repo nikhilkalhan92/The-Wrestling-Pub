@@ -161,5 +161,8 @@ https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 
 ### 8. ACKNOWLEDGEMENTS:
 
-Many thanks 
+Many thanks to my mentor Marcel who guided me from day 1 and Emmanuel Silva who helped/guided and showed me what I was doing wrong. I appreciate the help both have provided a lot. 
+
+They showed true kindness to help me.
+
 
