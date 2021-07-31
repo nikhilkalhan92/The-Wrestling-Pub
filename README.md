@@ -6,7 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/The-Wrestling-Pub)
 
-[Here is a link to my live site](nikhilkalhan92.github.io/The-Wrestling-Pub)
+[Here is a link to my live site](https://nikhilkalhan92.github.io/The-Wrestling-Pub/)
 
 
 
@@ -23,7 +23,7 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 
 Wireframes
 
-[Here is a link to my wireframe](https://balsamiq.cloud/s2oqkrm/pvic387/rC0F6)
+[Here is a link to my wireframe](https://balsamiq.cloud/s2oqkrm/pvic387/r2278)
 
 ### 3.USER EXPERIENCE
 
@@ -53,6 +53,7 @@ Helps the user not lose their place.
 
 ### SOLVED BUGS
 I had quite a few errors after using the HTML Validator. I have amended them all and made sure the code is all correct and neat.
+
 I had no errors on my CSS
 
 ### 4. LANGUAGES USED
