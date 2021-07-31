@@ -3,6 +3,14 @@
 Here is a link to my live site.
 [(https://nikhilkalhan92.github.io/The-Wrestling-Pub/)]
 
+![GitHub contributors](https://img.shields.io/github/contributors/nikhilkalhan92/The-Wrestling-Pub)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nikhilkalhan92/The-Wrestling-Pub)
+
+![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/The-Wrestling-Pub)
+
+![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/The-Wrestling-Pub)
+
 
 ### 1. INITIAL DESIGN
 I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as defunct companies like WCW). I knew, I wanted to a project wrestling elated, and I decided My first project will be a wrestling themed bar in the heart of London.
