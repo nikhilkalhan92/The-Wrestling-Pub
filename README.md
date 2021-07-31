@@ -6,9 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/The-Wrestling-Pub)
 
-Here is a link to my live site.
-[(https://nikhilkalhan92.github.io/The-Wrestling-Pub/)]
-
+[Here is a link to my live site](nikhilkalhan92.github.io/The-Wrestling-Pub)
 
 
 
@@ -17,8 +15,8 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 
 *** The Main Features would include***
 
-Background Pictures - wrestling related
-Navigation Menu
+-Background Pictures - wrestling related
+-Navigation Menu
 -Quick information the user needs ( About, Menu and Openings)
 
 ### 2. FINAL DESIGN
