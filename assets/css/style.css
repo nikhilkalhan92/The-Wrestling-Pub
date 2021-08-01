@@ -143,19 +143,102 @@ footer {
 
 /* Media queries */
 
-/* On screens that are 992px wide or less, go from four columns to two columns */
-@media screen and (max-width: 992px) {
-    .column {
-      width: 50%;
-    }
-  }
-  
-  /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
-  @media screen and (max-width: 600px) {
-    .column {
-      width: 100%;
-    }
-  }
-    
-  
 
+
+
+
+@media all and (min-width: 1024px) and (max-width: 1280px) { }
+ 
+@media all and (min-width: 768px) and (max-width: 1024px) { }
+ 
+@media all and (min-width: 480px) and (max-width: 768px) { }
+ 
+@media all and (max-width: 480px) { }
+
+
+/* MOBILE */
+ 
+@media only screen and (max-width: 40em) { 
+
+} 
+   
+     #ring-image {
+        max-width: 640px;
+        }
+     h1, h2 {
+        max-width: 640px;
+        }
+     #logo {
+        max-width: 640px;
+        }
+     .menu {
+        max-width: 640px;
+        }
+
+        /* Large screens - DESKTOP */
+    @media only screen and (min-width: 64.063em) {  
+
+    } 
+    
+    #ring-image { 
+        min-width: 1025px;
+        }
+    h1, h2 {
+        min-width: 1025px;
+        }
+     #logo {
+        min-width: 1025px;
+        }
+     .menu {
+        min-width: 1025px;
+        }
+    
+    /* iPhone Portrait */
+
+    #ring-image { 
+    max-width: 480px;
+    orientation: portrait;
+    }
+h1, h2 {
+    max-width: 480px;
+    orientation: portrait;
+    }
+ #logo {
+    max-width: 480px;
+    orientation: portrait;
+    }
+ .menu {
+    max-width: 480px;
+    orientation: portrait;
+    }
+
+    /* Medium screens - TABLET */
+@media only screen and (min-width: 40.063em) { 
+
+} 
+    
+#ring-image { 
+    min-width: 641px;
+    }
+h1, h2 {
+    min-width: 641px;
+    }
+ #logo {
+    min-width: 641px;
+    }
+ .menu {
+    min-width: 641px;
+    }
+    
+     
+
+
+
+ 
+
+     
+
+
+
+
+   

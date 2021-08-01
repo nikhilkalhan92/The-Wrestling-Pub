@@ -24,7 +24,9 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 Wireframes
 
 [Here is a image of my wireframe Index](assets/wireframes/wireframe1.PNG) 
+
 [Here is a image of my wireframe Menu](assets/wireframes/wireframe2.PNG)
+
 [Here is a image of my wireframe Contact](assets/wireframes/wireframe3.PNG)
 
 
