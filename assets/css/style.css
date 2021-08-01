@@ -141,96 +141,39 @@ footer {
     position: center;
 }
 
-/* Media queries */
 
+ /* Media queries */
 
-
-
-
-@media all and (min-width: 1024px) and (max-width: 1280px) { }
- 
-@media all and (min-width: 768px) and (max-width: 1024px) { }
- 
-@media all and (min-width: 480px) and (max-width: 768px) { }
- 
-@media all and (max-width: 480px) { }
-
-
-/* MOBILE */
- 
-@media only screen and (max-width: 40em) { 
-
-} 
-   
-     #ring-image {
-        max-width: 640px;
-        }
-     h1, h2 {
-        max-width: 640px;
-        }
-     #logo {
-        max-width: 640px;
-        }
-     .menu {
-        max-width: 640px;
-        }
-
-        /* Large screens - DESKTOP */
-    @media only screen and (min-width: 64.063em) {  
-
-    } 
-    
-    #ring-image { 
-        min-width: 1025px;
-        }
-    h1, h2 {
-        min-width: 1025px;
-        }
-     #logo {
-        min-width: 1025px;
-        }
-     .menu {
-        min-width: 1025px;
-        }
-    
-    /* iPhone Portrait */
-
-    #ring-image { 
-    max-width: 480px;
-    orientation: portrait;
-    }
-h1, h2 {
-    max-width: 480px;
-    orientation: portrait;
-    }
- #logo {
-    max-width: 480px;
-    orientation: portrait;
-    }
- .menu {
-    max-width: 480px;
-    orientation: portrait;
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+    #container {
+        width: 65%;
+        margin: 0 auto;
     }
 
-    /* Medium screens - TABLET */
-@media only screen and (min-width: 40.063em) { 
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
 
-} 
-    
-#ring-image { 
-    min-width: 641px;
+    #left-about, #right-about {
+        width: 100%;
+        padding: 0;
     }
-h1, h2 {
-    min-width: 641px;
+
+    #center-about {
+        clear: both;
+        width: 100%;
+        padding: 0;
     }
- #logo {
-    min-width: 641px;
+
+    hr {
+        display: none;
     }
- .menu {
-    min-width: 641px;
-    }
-    
-     
+}
+
+
+
 
 
 

@@ -21,6 +21,8 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 
 ### 2. FINAL DESIGN
 
+1. [My Final design link is here](http://ami.responsivedesign.is/?url=https%3A%2F%2Fnikhilkalhan92.github.io%2FThe-Wrestling-Pub%2F#)
+
 Wireframes
 
 [Here is a image of my wireframe Index](assets/wireframes/wireframe1.PNG) 
@@ -164,6 +166,8 @@ https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 ### 8. ACKNOWLEDGEMENTS:
 
 Many thanks to my mentor Marcel who guided me from day 1 and Emmanuel Silva who helped/guided and showed me what I was doing wrong. I appreciate the help both have provided a lot. 
+
+Also, special shoutout to my friend Jayden Maddison who adviced me to pursue this course.
 
 They showed true kindness to help me.
 
