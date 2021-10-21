@@ -81,7 +81,7 @@ h1, h2 {
               }
 
 
-*/ about */
+/* about */
 
 .container {
     position: relative;
@@ -138,7 +138,7 @@ footer {
     margin: 1%;
     padding: 1%;
     color: burlywood;
-    position: center;
+    text-align: center;
 }
 
 
