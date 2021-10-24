@@ -12,7 +12,7 @@ Welcome to my first project. This project is based on wrestling, which is someth
 [Here is a link to my live site](https://nikhilkalhan92.github.io/The-Wrestling-Pub/)
 
 
-## 1. INITIAL DESIGN
+## 1. Initial Design
 
 
 *** The Main Features would include***
@@ -21,7 +21,7 @@ Welcome to my first project. This project is based on wrestling, which is someth
 2. Navigation Menu
 3. Quick information the user needs ( About, Menu and Openings)
 
-### 2. FINAL DESIGN
+### FINAL DESIGN
 
 [My Final design link is here](http://ami.responsivedesign.is/?url=https%3A%2F%2Fnikhilkalhan92.github.io%2FThe-Wrestling-Pub%2F#)
 
@@ -35,7 +35,7 @@ Wireframes
 
 
 
-### 3.USER EXPERIENCE
+### 2.USER EXPERIENCE
 
 ### Aims
 - In this project, I will build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
@@ -82,25 +82,25 @@ I feel like Burleywood suits the whole website, giving it the colour to attract 
 ### LANGUAGES USED
 
 ### PROGRAMS USED:
-- HTML5
-- The project uses HyperText Markup Language.
+1. HTML5
+The project uses HyperText Markup Language.
 
-- CSS3
-- The project uses Cascading Style Sheets.
+2. CSS3
+The project uses Cascading Style Sheets.
 
-- Chrome
-- The project uses Chrome to debug and test the source code using HTML5.
+3. Chrome
+The project uses Chrome to debug and test the source code using HTML5.
 
-- Balsamiq
-- Balsamiq was used to create the wireframes during the design process.
+4. Balsamiq
+Balsamiq was used to create the wireframes during the design process.
 
-- Google Fonts
-- Google fonts were used to import the "Lato/Sans-Sarif" font into the style.css file which is used on all pages throughout the project.
+5. Google Fonts
+Google fonts were used to import the "Lato/Sans-Sarif" font into the style.css file which is used on all pages throughout the project.
 
-- GitHub
-- GitHub was used to store the project's code after being pushed from Gitpush.
+6. GitHub
+GitHub was used to store the project's code after being pushed from Gitpush.
 
-### 5. Automated testing
+## 3. Automated testing
 
 ### SOLVED BUGS
 1) I had 2 errors on my CSSI had no errors on my CSS
@@ -109,47 +109,51 @@ I feel like Burleywood suits the whole website, giving it the colour to attract 
 1. I used Am I Responsive to make sure that all my pages are responsive to all devices. Results are below
 
 ### W3C Validator Tools
-1. I used W3C Markup to check for any errors within my HTML pages for the Index, Menu and Contact Page. Screenshots below
-2. I used W3C CSS Validation to check for any error within my CSS stylesheet. - Results are below
+1. I used W3C Markup to check for any errors within my HTML pages for the Index, Menu and Contact Page. 
+2. I used W3C CSS Validation to check for any error within my CSS stylesheet. - Screenshots for erros are below 
+![Css errors](assets/images/csserrors.png)
 
 - HTML Index Results NEED PIC
-- HTML Menu Results NEED PIC
-- HTML Contact Results NEED PIC
+- HTML Menu Results 
+![HTML Menu](assets/images/htmlmenu.png)
+- HTML Contact Results 
+![HTML Contact Errors](assets/images/contacthtml.png)
 - CSS VALIDATOR RESULTS NEED PIC
 
-## Testing ##
+## 3. Testing ##
 
-## USER STORIES TESTING ##
+## User Story Telling ##
 
-- The site needs to be easily accessible.
+### The site needs to be easily accessible.
 - Alt description has been given to each image.
 - A sr-only class has been used on active navigation items to indicate users on the menu location.
 - Contrasting colours have been used so that content can be read clearly.
-- The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
+### The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
 - The navigation bar is visible on all pages with an indicator to show which page the user is on.
 - The navigation bar is easy to read and easy to understand what each button does.
-- Manoeuvring around the site should be simple and straightforward.
+### Manoeuvring around the site should be simple and straightforward.
 - Everything is laid out in a clear manner that is simple to use.
 - The navigation bar is clear and visible at the top of each page.
-- The site should be informative and all the text should be easy to read.
+### The site should be informative and all the text should be easy to read.
 - All content on each page is clear and easily understandable.
-- The images should be clear and not stretched or squashed.
+### The images should be clear and not stretched or squashed.
 - All images are visibly clear on all pages.
 - Only height has been set on images as to maintain the correct aspect ratio.
+### Returning User
 - The site has detailed information.
 - All information is clear and easy to read.
-- To get in contact with us
+### To get in contact with us
 - Navigation bar is visible at the top of each page.
 - Site layout allows familar users of the site to find the contact us page.
 
 
-**STYLING AND LAYOUT***
+**Styling and Layout**
 1. Ensure carousel images loads correctly and functioning as expected.
 2. Ensure all images loads correctly. 
 3. Ensure all backgrounds images load correctly.
 4. Ensure main page hearder loads correctly.
 
-**NAVIGATION BAR**
+**Navigation Bar**
 1. Click on The Wrestling Pup main page header to take us to the Home page from the Home page.
 2. Click on The Wrestling Pub main page header to take us to the Home page from The Big Three page.
 3. Click on The Wrestling Pub main page header to take us to the Home page from the Contact Us page.
@@ -163,7 +167,7 @@ I feel like Burleywood suits the whole website, giving it the colour to attract 
 11. Click on the Contact Us button to take us to the Contact Us page from the Menu page.
 12. Click on the Contact Us button to take us to the Contact Us page from the Contact Us page.
 
-**PAGES**
+**Pages**
 1. Ensure all Navigation links are working in the Home page.
 2. Ensure all Navigation links are working in the Menu page.
 3. Ensure all Navigation links are working in the Contact Us page.
@@ -171,7 +175,7 @@ I feel like Burleywood suits the whole website, giving it the colour to attract 
 5. Ensure all Footer links are working in the Menu page.
 6. Ensure all Footer links are working in the Contact page.
 
-**RESPONSIVENESS**
+**Responsiveness**
 1. Ensure all Images and Content are responsive in the Home page.
 2. Ensure all Images and Content are responsive in the Menu.
 3. Ensure all Images and Content are responsive in the Contact Us page.
@@ -179,7 +183,7 @@ I feel like Burleywood suits the whole website, giving it the colour to attract 
 5. Ensure all Text Content is readable in the Menu page.
 6. Ensure all Text Content is readable in the Contact Us page.
 
-### 6. Deployment
+**Deployment** 
 
 I used GitHub pages to deploy my final project. To do this I had to:
 1. Login or Sign Up to [GitHub] - https://github.com/nikhilkalhan92/The-Wrestling-Pub
@@ -189,10 +193,10 @@ I used GitHub pages to deploy my final project. To do this I had to:
 5. Click "Save", then wait for it to be deployed. 
 6. The URL will be displayed above the "source" section in GitHub Pages.
 
-**Lighthouse**
+**Lighthouse** - NEED PICS
 
 
-**HOW TO FORK A REPOSITORY**
+**How to fork a Respiratory**
 
 If you need to make a copy of a repository:
 
@@ -213,7 +217,7 @@ If you need to make a local clone:
 7. Type git clone and then paste the URL you copied in step 4.
 8. Press Enter, and your local clone will be created.
 
-### 7. CONTENT
+## 4. CONTENT
 
 ### IMAGES
 Images are provided by Google Images - I have provided the links
@@ -226,7 +230,7 @@ https://media.istockphoto.com/vectors/empty-wrestling-sport-arena-boxing-ring-dr
 
 https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 
-### 8. ACKNOWLEDGEMENTS:
+## 5. ACKNOWLEDGEMENTS:
 
 Many thanks to my mentor Marcel who guided me from day 1 and Emmanuel Silva who helped/guided and showed me what I was doing wrong. I appreciate the help both have provided a lot. 
 
