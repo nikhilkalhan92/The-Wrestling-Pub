@@ -1,17 +1,19 @@
-### MS1-Project - The Wrestling Pub
-
+# Portfolio 1 - The Wrestling Pub
 
 ![GitHub contributors](https://img.shields.io/github/contributors/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub last commit](https://img.shields.io/github/last-commit/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/The-Wrestling-Pub)
 ![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/The-Wrestling-Pub)
 
+## Introduction 
+
+Welcome to my first project. This project is based on wrestling, which is something I watch and enjoy on a weely basis.  I decided to build a website for a wrestling themed bar in the heart of London.
+
 [Here is a link to my live site](https://nikhilkalhan92.github.io/The-Wrestling-Pub/)
 
 
+## 1. INITIAL DESIGN
 
-### 1. INITIAL DESIGN
-I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as defunct companies like WCW). I knew, I wanted to a project wrestling elated, and I decided My first project will be a wrestling themed bar in the heart of London.
 
 *** The Main Features would include***
 
@@ -21,7 +23,7 @@ I am a big fan of professional wrestling. Whether it maybe WWE, AEW ( as well as
 
 ### 2. FINAL DESIGN
 
-1. [My Final design link is here](http://ami.responsivedesign.is/?url=https%3A%2F%2Fnikhilkalhan92.github.io%2FThe-Wrestling-Pub%2F#)
+[My Final design link is here](http://ami.responsivedesign.is/?url=https%3A%2F%2Fnikhilkalhan92.github.io%2FThe-Wrestling-Pub%2F#)
 
 Wireframes
 
@@ -36,19 +38,37 @@ Wireframes
 ### 3.USER EXPERIENCE
 
 ### Aims
+- In this project, I will build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
+
+- Data is presented to help users achieve their goals, e.g. learning about a product/service in which   they   are interested. The presentation of this data advances the site owner's goals, e.g. helps them market a product/service.
+
 - The site needs to be easy to use
 - Moving the mouse around the site needs to be simple
 - The site needs to provide the information needs when visiting the website ( About, Menu and contact details)
 - Images that show what the bar looks like inside and the layout 
 
-### First Time Visitors
-- The browser must find the website easy to use
-- I want the browser to understand what the place is about/what we offer 
+### CLIENT GOALS
+- The site needs to be easily accessible.
+- The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and      mobile.
+- Manoeuvring around the site should be simple and straightforward.
+- The site should be informative and all the text should be easy to read.
+- The images should be clear and not stretched or squashed.
+
+## FIRST TIME VISITORS
+- I want it to be easy to understand how to navigate throughout the site.
+- I want the content to be easily read and understandable.
+
+## RETURNING USER
+- To gather information for projects.
+- To recommend the site to friends and family.
+- To get in contact with us
 
 ### Design
 
 ### COLOR SCHEME
-The Colours I used were black and Burlywood - I used burlywood, because with black in the background the information really stands out, and catches the viewer at first glance.
+The colours I have used are Burleywood and black. Both fitting colours which would suit the backgrounds on all three pages.
+
+I feel like Burleywood suits the whole website, giving it the colour to attract the user at first glance.
 
 [Here is a link to my main color](https://www.color-name.com/burlywood.color)
 
@@ -59,12 +79,7 @@ The Colours I used were black and Burlywood - I used burlywood, because with bla
 1. Tells the user the location of the mouse whilst navigating the menu.
 2. Helps the user not lose their place.
 
-### SOLVED BUGS
-1. I had quite a few errors after using the HTML Validator. I have amended them all and made sure the code is all correct and neat.
-
-2. I had no errors on my CSS
-
-### 4. LANGUAGES USED
+### LANGUAGES USED
 
 ### PROGRAMS USED:
 - HTML5
@@ -87,14 +102,46 @@ The Colours I used were black and Burlywood - I used burlywood, because with bla
 
 ### 5. Automated testing
 
+### SOLVED BUGS
+1) I had 2 errors on my CSSI had no errors on my CSS
+
 ### Responsive Tools
-1. I used Am I Responsive to make sure that all my pages are responsive to all devices.
+1. I used Am I Responsive to make sure that all my pages are responsive to all devices. Results are below
 
 ### W3C Validator Tools
-1. I used W3C Markup to check for any errors within my HTML pages.
-2. I used W3C CSS Validation to check for any error within my CSS stylesheet.
+1. I used W3C Markup to check for any errors within my HTML pages for the Index, Menu and Contact Page. Screenshots below
+2. I used W3C CSS Validation to check for any error within my CSS stylesheet. - Results are below
 
-**TESTING**
+- HTML Index Results NEED PIC
+- HTML Menu Results NEED PIC
+- HTML Contact Results NEED PIC
+- CSS VALIDATOR RESULTS NEED PIC
+
+## Testing ##
+
+## USER STORIES TESTING ##
+
+- The site needs to be easily accessible.
+- Alt description has been given to each image.
+- A sr-only class has been used on active navigation items to indicate users on the menu location.
+- Contrasting colours have been used so that content can be read clearly.
+- The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
+- The navigation bar is visible on all pages with an indicator to show which page the user is on.
+- The navigation bar is easy to read and easy to understand what each button does.
+- Manoeuvring around the site should be simple and straightforward.
+- Everything is laid out in a clear manner that is simple to use.
+- The navigation bar is clear and visible at the top of each page.
+- The site should be informative and all the text should be easy to read.
+- All content on each page is clear and easily understandable.
+- The images should be clear and not stretched or squashed.
+- All images are visibly clear on all pages.
+- Only height has been set on images as to maintain the correct aspect ratio.
+- The site has detailed information.
+- All information is clear and easy to read.
+- To get in contact with us
+- Navigation bar is visible at the top of each page.
+- Site layout allows familar users of the site to find the contact us page.
+
 
 **STYLING AND LAYOUT***
 1. Ensure carousel images loads correctly and functioning as expected.
@@ -142,6 +189,9 @@ I used GitHub pages to deploy my final project. To do this I had to:
 5. Click "Save", then wait for it to be deployed. 
 6. The URL will be displayed above the "source" section in GitHub Pages.
 
+**Lighthouse**
+
+
 **HOW TO FORK A REPOSITORY**
 
 If you need to make a copy of a repository:
@@ -149,6 +199,19 @@ If you need to make a copy of a repository:
 1. Login or Sign Up to GitHub.
 2. On GitHub, go to nikhilkalhan92/MS1-Project.
 3. In the top right corner, click "Fork".
+
+**HOW TO MAKE A LOCAL CLONE**
+
+If you need to make a local clone:
+
+1. Login in to GitHub.
+2. Under the repository name, above the list of files, click "Code".
+3. Here you can either Clone or Download the repository.
+4. You should close the repository using HTTPS, clicking on the icon to copy the link.
+5. Open Git Bash.
+6. Change the current working directory to the new locaiton, where you want the cloned directory to be.
+7. Type git clone and then paste the URL you copied in step 4.
+8. Press Enter, and your local clone will be created.
 
 ### 7. CONTENT
 
