@@ -15,13 +15,13 @@ Welcome to my first project. This project is based on wrestling, which is someth
 ## 1. Initial Design
 
 
-*** The Main Features would include***
+**Features**
 
-1. Background Pictures which are wrestling related
-2. Navigation Menu
+1. Background color of menu bar and foreground color were chosen considering the contrast between background and foreground colours
+2. Social media links (for facebook, Linkden, Twitter and Youtube) are placed at the bottom of the each page in the footer. All the links will open in a new tab.
 3. Quick information the user needs ( About, Menu and Openings)
 
-### FINAL DESIGN
+### Final Design
 
 [My Final design link is here](http://ami.responsivedesign.is/?url=https%3A%2F%2Fnikhilkalhan92.github.io%2FThe-Wrestling-Pub%2F#)
 
@@ -35,7 +35,7 @@ Wireframes
 
 
 
-### 2.USER EXPERIENCE
+### 2.User Experience
 
 ### Aims
 - In this project, I will build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
@@ -47,41 +47,41 @@ Wireframes
 - The site needs to provide the information needs when visiting the website ( About, Menu and contact details)
 - Images that show what the bar looks like inside and the layout 
 
-### CLIENT GOALS
+### Client Goals
+
 - The site needs to be easily accessible.
-- The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and      mobile.
+- The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
 - Manoeuvring around the site should be simple and straightforward.
 - The site should be informative and all the text should be easy to read.
 - The images should be clear and not stretched or squashed.
 
-## FIRST TIME VISITORS
+## First Time Visitors
 - I want it to be easy to understand how to navigate throughout the site.
 - I want the content to be easily read and understandable.
 
-## RETURNING USER
+## Returning User
 - To gather information for projects.
 - To recommend the site to friends and family.
 - To get in contact with us
 
 ### Design
 
-### COLOR SCHEME
+### Color Scheme
 The colours I have used are Burleywood and black. Both fitting colours which would suit the backgrounds on all three pages.
 
 I feel like Burleywood suits the whole website, giving it the colour to attract the user at first glance.
 
 [Here is a link to my main color](https://www.color-name.com/burlywood.color)
 
-### FEATURES
+### Features
 1. I have used the following features in this project
 
-### HOVER
+### Hover
 1. Tells the user the location of the mouse whilst navigating the menu.
 2. Helps the user not lose their place.
 
-### LANGUAGES USED
+### Technologies Used
 
-### PROGRAMS USED:
 1. HTML5
 The project uses HyperText Markup Language.
 
@@ -99,6 +99,9 @@ Google fonts were used to import the "Lato/Sans-Sarif" font into the style.css f
 
 6. GitHub
 GitHub was used to store the project's code after being pushed from Gitpush.
+
+7.  Google Developer Tools
+I make use of google developer tools (Chrome DevTools) as debugging tools. Using this tool i inspect for every elements that I added in HTML and CSS style. Once I was happy with, I copy the CSS style code from Chrome DevTools and paste in my CSS style sheet.
 
 ## 3. Automated testing
 
@@ -204,7 +207,7 @@ If you need to make a copy of a repository:
 2. On GitHub, go to nikhilkalhan92/MS1-Project.
 3. In the top right corner, click "Fork".
 
-**HOW TO MAKE A LOCAL CLONE**
+**How to make a local clone**
 
 If you need to make a local clone:
 
@@ -217,9 +220,9 @@ If you need to make a local clone:
 7. Type git clone and then paste the URL you copied in step 4.
 8. Press Enter, and your local clone will be created.
 
-## 4. CONTENT
+## 4. Content
 
-### IMAGES
+### Images
 Images are provided by Google Images - I have provided the links
 
 https://www.wwe.com/f/styles/og_image/public/2020/04/EasterBunny_Thumb1--eac98896cfd9d059ec4683ae3cd9c145.jpg
@@ -230,7 +233,7 @@ https://media.istockphoto.com/vectors/empty-wrestling-sport-arena-boxing-ring-dr
 
 https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 
-## 5. ACKNOWLEDGEMENTS:
+## 5. Acknowledgments:
 
 Many thanks to my mentor Marcel who guided me from day 1 and Emmanuel Silva who helped/guided and showed me what I was doing wrong. I appreciate the help both have provided a lot. 
 
