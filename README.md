@@ -7,7 +7,11 @@
 
 ## Introduction 
 
-Welcome to my first project. This project is based on wrestling, which is something I watch and enjoy on a weely basis.  I decided to build a website for a wrestling themed bar in the heart of London.
+Welcome to my first project. The website is about a new wrestling bar in the heart of London. The website is a simple 3 tab url which will take the user the information they need. That would be About/Menu and Contact me page.
+
+I, as a big fan of wrestling thought this would be the perfect opportunity to make my first project wrestling based.
+
+![responsiveness](assets/images/responsiveness.png)
 
 [Here is a link to my live site](https://nikhilkalhan92.github.io/The-Wrestling-Pub/)
 
@@ -27,15 +31,21 @@ Welcome to my first project. This project is based on wrestling, which is someth
 
 Wireframes
 
-[Here is a image of my wireframe Index](assets/wireframes/wireframe1.PNG) 
+![Here is a image of my wireframe Index](assets/wireframes/wireframe1.png) 
 
-[Here is a image of my wireframe Menu](assets/wireframes/wireframe2.PNG)
+![Here is a image of my wireframe Menu](assets/wireframes/wireframe2.png)
 
-[Here is a image of my wireframe Contact](assets/wireframes/wireframe3.PNG)
+![Here is a image of my wireframe Contact](assets/wireframes/wireframe3.png)
 
 
 
 ### 2.User Experience
+
+I have realised for a while, London does not have many wrestling themed venus considering its a massive hub for global wrestling companies. So this bar is perfect for 
+
+-wrestling fans who want to watch it with friends/family
+-casual wrestling fans who want a fun spontanous night out
+- People who like dressing up and gamers
 
 ### Aims
 - In this project, I will build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
@@ -114,13 +124,13 @@ I make use of google developer tools (Chrome DevTools) as debugging tools. Using
 ### W3C Validator Tools
 1. I used W3C Markup to check for any errors within my HTML pages for the Index, Menu and Contact Page. 
 2. I used W3C CSS Validation to check for any error within my CSS stylesheet. - Screenshots for erros are below 
-![Css errors](assets/images/csserrors.png)
+
 
 - HTML Index Results NEED PIC
 - HTML Menu Results 
-![HTML Menu](assets/images/htmlmenu.png)
+
 - HTML Contact Results 
-![HTML Contact Errors](assets/images/contacthtml.png)
+
 - CSS VALIDATOR RESULTS NEED PIC
 
 ## 3. Testing ##
@@ -235,10 +245,5 @@ https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 
 ## 5. Acknowledgments:
 
-Many thanks to my mentor Marcel who guided me from day 1 and Emmanuel Silva who helped/guided and showed me what I was doing wrong. I appreciate the help both have provided a lot. 
-
-Also, special shoutout to my friend Jayden Maddison who adviced me to pursue this course.
-
-They showed true kindness to help me.
 
 
