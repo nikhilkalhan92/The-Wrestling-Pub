@@ -56,6 +56,7 @@ nav ul li a{
     width: 50%;
     margin:auto;
 
+
 }
 .banner_text p{
     font-size: 24px;
@@ -98,11 +99,24 @@ nav ul li a{
 }
 
 
+/* CONTACT US CSS  */
+.contact_sec_1{
+    padding: 45px 0;
+    background: url(../images/contact.jpeg);
+    background-size: cover;
+    background-position: center center;
+}
 
 
-
-
-
+.contact_sec_1 ul li{
+    color: #deb887;
+    list-style: none;
+    font-weight: bold;
+}
+.contact_sec_1 iframe{
+    width: 500px;
+    margin-top: 10px;
+}
 
 
 .social_icons{
@@ -125,14 +139,14 @@ nav ul li a{
     font-weight: 700;
     color: #deb887;
 }
+.contact_sec_1 h2{
+    font-weight: bolder;
+    color: #deb887;
+}
 
 
 /* IPADPRO RESPONSIVE  */
-@media (max-width: 1024px){
-  .sec_1{
-      min-height: 50vh;
-  }
-}
+
 
 /* IPAD RESPONSIVE  */
 @media (max-width: 768px){
@@ -158,7 +172,9 @@ nav ul li a{
         padding: 0px;
         
     }
-   
+   .sec_1{
+       padding: 100px 0;
+   }
    
 }
 
@@ -190,6 +206,9 @@ nav ul li a{
     font-size: 10px;
     margin-bottom: 0px;
 }
+.contact_sec_1 iframe{
+    width: 100%;
+}
 }
 
 /* EXTRA SMALL DEVICES   */
@@ -202,4 +221,7 @@ nav ul li a{
      font-size: 7.5px;
      margin-bottom: 0px;
  }
+ .contact_sec_1 iframe{
+    width: 100%;
+}
 }
