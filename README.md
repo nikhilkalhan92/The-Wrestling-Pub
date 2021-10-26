@@ -145,7 +145,7 @@ W3C Markup was used to check for any errors within my HTML pages.
  I had an error on my HTML Index page. Here it is below.
  ![htmlindexerror](assets/images/htmlindexerror.png)
 
-## 3. Manual Testing ##
+## 4. Manual Testing ##
 
 ## User Story Telling ##
 
@@ -261,7 +261,7 @@ If you need to make a local clone:
 7. Type git clone and then paste the URL you copied in step 4.
 8. Press Enter, and your local clone will be created.
 
-## 4. Content
+## 5. Content
 
 ### Images
 Images are provided by Google Images - I have provided the links
@@ -274,7 +274,7 @@ https://media.istockphoto.com/vectors/empty-wrestling-sport-arena-boxing-ring-dr
 
 https://www.dartdesign.in/images/portfolio/wwe_2.jpg
 
-## 5. Acknowledgments:
+## 6. Acknowledgments:
 
 
 
