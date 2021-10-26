@@ -1,174 +1,156 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald&display=swap');
-
-* {
+*{
     margin: 0;
     padding: 0;
-    border: none;
+    box-sizing: border-box;
 }
-
-
-body {
+body{
     font-family: Lato , sans-serif;
-    font-weight: 300;
-    color: burlywood;
-
 }
-
-/* headings and logo */
-
-h1, h2 {
-    font-family: Oswald, sans-serif;
-     text-transform: uppercase;
-     letter-spacing: 4px;
-     color: burlywood;
+header{
+    width: 100%;
 }
-
-#logo {
-    float: left;
-    font-size: 280%;
-    margin-left: 30px;
+nav{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 4%;
+    align-items: center;
 }
-
-/* navigation links */
-
-#menu {
-    font-size: 110%;
-    letter-spacing: 4px;
+nav ul{
+    display: flex;
 }
-
-#menu, #logo {
-    line-height: 75px;
-}   
-
-#menu a {
+nav ul li{
+    list-style: none;
+    margin: 0 15px;
+}
+nav ul li a{
     text-decoration: none;
-    color: inherit;
-    font-weight: bold;
-
-}   
-
-#menu li{
-    float: right;
-    margin-right: 30px;
-    color: burlywood
-    
-}
-
-#menu a:hover {
-    border-bottom: 1px solid burlywood;
-}
-
-#active {
-    border-bottom: 1px solid burlywood;
-}
-
-/*  ring-image */
-
-#ring-image { height: 750px;
-              background-image: url('/assets/css/images/ring.jpg');
-              background-repeat: no-repeat;    
-              background-size: cover;    
-              max-width: 100%;    
-              background-position: top center;
-
-             }
-.top-right {
-                position: absolute;
-                top: 100px;
-                right: 1px;
-                padding: 1px 1px 1px  1px;
-                font-size: 9px;
-              }
-
-
-*/ about */
-
-.container {
-    position: relative;
-    text-align: center;
-    color: white;
-
-}
-  
-  .top-right {
-    position: absolute;
-    top: 100px;
-    right: 16px;
-    padding: 100px 84px 75px 100px;
-    font-size: larger;
-    
-  }
-
-  .top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-    font-size: larger;
-    
-  }
-
-
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     color: burlywood;
-    font-size: 150%;
+    font-size: 18px;
+    font-weight: 700;
+}
+.logo_area a{
+    text-decoration: none;
+}
+.logo_area h1{
+    font-size: 45px;
+    color: #deb887;
+    font-weight: 700;
+    font-family: Oswald, sans-serif;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+.sec_1{
+    width: 100%;
+    min-height: 150vh;
+    background: url(../images/ring.jpg);
+    background-size: cover;
+    background-position: center center;
+}
+.banner_text{
+    width: 50%;
+    margin:auto;
+    padding-top: 200px;
+
+}
+.banner_text p{
+    font-size: 24px;
     font-family: cursive;
-    
-    
+    color: #deb887;
+    font-weight: 300;
+}
+.social_icons{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 25px 0;
+}
+.social_icons i{
+    color: #deb887;
+    font-size: 40px;
+    margin: 0 25px;
+}
+.copyright{
+    width: 100%;
+    padding: 5px 4%;
+}
+.copyright p{
+    font-size: 13px;
+    font-weight: 700;
+    color: #deb887;
 }
 
-/* footer */
-footer {
-    height: 150px;
+/* IPADPRO RESPONSIVE  */
+@media (max-width: 1024px){
+  .sec_1{
+      min-height: 50vh;
+  }
 }
 
-.social-networks {
-    text-align: center;
-}
-
-.social-networks > li {
-    display: inline;
-}
-
-.social-networks i {
-    font-size: 250%;
-    margin: 1%;
-    padding: 1%;
-    color: burlywood;
-    text-align: center;
-}
-
-
- /* Media queries */
-
- /* For larger to medium screens size from 1200px wide and down */
-@media screen and (max-width: 1200px) {
-    #container {
-        width: 65%;
-        margin: 0 auto;
+/* IPAD RESPONSIVE  */
+@media (max-width: 768px){
+    .logo_area h1{
+        font-size: 14px;
+        margin-top: 5px;
+    } 
+    nav{
+        align-items: flex-start;
+        padding: 10px 2%;
     }
-
-    #welcome {
-        padding: 30px 0;
-        margin: 0;
+    nav ul{
+     padding-top: 0px;
     }
-
-    #left-about, #right-about {
-        width: 100%;
-        padding: 0;
+    nav ul li{
+        margin: 0 5px;
+        margin-top: 0px !important;
+        padding-top: 0px !important;
     }
-
-    #center-about {
-        clear: both;
-        width: 100%;
-        padding: 0;
+    nav ul li a{
+        font-size: 12px;
+        margin: 0px;
+        padding: 0px;
+        
     }
-
-    hr {
-        display: none;
+    .sec_1{
+        min-height: 50vh;
+    }
+    .banner_text{
+        padding-top: 100px;
     }
 }
 
+/* SMALL DEVICES RESPONSIVE  */
+@media (max-width: 550px){
+  .logo_area h1{
+      font-size: 10px;
+  }
+  .sec_1{
+      min-height: 45vh;
+  }
+  nav ul li a{
+    font-size: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+.banner_text{
+    width: 80%;
+}
+.banner_text p{
+    font-size: 16px;
+}
+.social_icons i{
+    font-size: 26px;
+    margin: 0 10px;
+}
+}
+
+/* EXTRA SMALL DEVICES   */
+@media (max-width: 350px){
+ .banner_text p{
+     font-size: 14px;
+ }
+ .banner_text{
+     padding-top: 50px;
+ }
+}
