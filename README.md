@@ -29,7 +29,7 @@ I, as a big fan of wrestling thought this would be the perfect opportunity to ma
 
 [My Final design link is here](http://ami.responsivedesign.is/?url=https%3A%2F%2Fnikhilkalhan92.github.io%2FThe-Wrestling-Pub%2F#)
 
-Wireframes
+## Wireframes
 
 ![Here is a image of my wireframe Index](assets/wireframes/wireframe1.png) 
 
@@ -41,11 +41,12 @@ Wireframes
 
 ### 2.User Experience
 
-I have realised for a while, London does not have many wrestling themed venus considering its a massive hub for global wrestling companies. So this bar is perfect for 
+- I have realised for a while, London does not have many wrestling themed venus considering its a   massive hub for global wrestling companies. So this bar is perfect for the following people:
 
--wrestling fans who want to watch it with friends/family
--casual wrestling fans who want a fun spontanous night out
+- wrestling fans who want to watch it with friends/family
+- casual wrestling fans who want a fun spontanous night out
 - People who like dressing up and gamers
+- First dates!
 
 ### Aims
 - In this project, I will build a static front-end site to present useful information to users, using all the technologies that I have learned about so far.
@@ -65,11 +66,11 @@ I have realised for a while, London does not have many wrestling themed venus co
 - The site should be informative and all the text should be easy to read.
 - The images should be clear and not stretched or squashed.
 
-## First Time Visitors
+### First Time Visitors
 - I want it to be easy to understand how to navigate throughout the site.
 - I want the content to be easily read and understandable.
 
-## Returning User
+### Returning User
 - To gather information for projects.
 - To recommend the site to friends and family.
 - To get in contact with us
@@ -115,31 +116,40 @@ I make use of google developer tools (Chrome DevTools) as debugging tools. Using
 
 ## 3. Automated testing
 
-### SOLVED BUGS
-1) I had 2 errors on my CSSI had no errors on my CSS
+### Google Developer Tools
+I tested my website using Google Chrome Developer Tools Lighthouse feature, and received the results below for all 3 pages:
+
+- Home 
+![homelighthouse](assets/images/homepagelighthouse.png)
+- Menu
+![menu](assets/images/menulighthouse.png)
+- Contact
+![contact](assets/images/contactlighthousr.png)
 
 ### Responsive Tools
 1. I used Am I Responsive to make sure that all my pages are responsive to all devices. Results are below
 
+![responsiveness](assets/images/responsiveness.png)
+
 ### W3C Validator Tools
-1. I used W3C Markup to check for any errors within my HTML pages for the Index, Menu and Contact Page. 
-2. I used W3C CSS Validation to check for any error within my CSS stylesheet. - Screenshots for erros are below 
+W3C Markup was used to check for any errors within my HTML pages.
 
+- HTML Menu Results - no errors
+ ![menu](assets/images/menuhtml.png)
+- HTML Contact Results - no erros
+![contact](assets/images/contacthtml1.png)
+- CSS Results - no errors
+ ![css](assets/images/cssnoerrors.png)
 
-- HTML Index Results NEED PIC
-- HTML Menu Results 
+ ### Solved Bugs
+ I had an error on my HTML Index page. Here it is below.
+ ![htmlindexerror](assets/images/htmlindexerror.png)
 
-- HTML Contact Results 
-
-- CSS VALIDATOR RESULTS NEED PIC
-
-## 3. Testing ##
+## 3. Manual Testing ##
 
 ## User Story Telling ##
 
 ### The site needs to be easily accessible.
-- Alt description has been given to each image.
-- A sr-only class has been used on active navigation items to indicate users on the menu location.
 - Contrasting colours have been used so that content can be read clearly.
 ### The navigation menu needs to be simple to use on a range of devices, including desktop, tablet and mobile.
 - The navigation bar is visible on all pages with an indicator to show which page the user is on.
@@ -159,6 +169,18 @@ I make use of google developer tools (Chrome DevTools) as debugging tools. Using
 - Navigation bar is visible at the top of each page.
 - Site layout allows familar users of the site to find the contact us page.
 
+**Manual Testing**
+
+I have tested my site on multiple devices. These include:
+
+- Galaxy S5 (360 x 640)
+- iPhone 6/7/8 (375 x 667)
+- iPhone 6/7/8 plus (414 x 736)
+- ipad (768 x 1024)
+- iPhone XS Max
+- iPad Pro (1024 x 1366)
+- Huawei P20 Pro
+- Please find below my testing process for all pages via mobile and web:
 
 **Styling and Layout**
 1. Ensure carousel images loads correctly and functioning as expected.
@@ -196,6 +218,8 @@ I make use of google developer tools (Chrome DevTools) as debugging tools. Using
 5. Ensure all Text Content is readable in the Menu page.
 6. Ensure all Text Content is readable in the Contact Us page.
 
+![responsive](assets/images/responsiveness.png)
+
 **Deployment** 
 
 I used GitHub pages to deploy my final project. To do this I had to:
@@ -206,8 +230,15 @@ I used GitHub pages to deploy my final project. To do this I had to:
 5. Click "Save", then wait for it to be deployed. 
 6. The URL will be displayed above the "source" section in GitHub Pages.
 
-**Lighthouse** - NEED PICS
+**Final Website**
 
+Home
+![home](assets/images/home.png)
+Menu
+![menu](assets/images/menupage1.png)
+![menu2](assets/images/menupage2.png)
+Contact
+![contact](assets/images/contact.png)
 
 **How to fork a Respiratory**
 
