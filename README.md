@@ -11,7 +11,7 @@ Welcome to my first project. The website is about a new wrestling bar in the hea
 
 I, as a big fan of wrestling thought this would be the perfect opportunity to make my first project wrestling based.
 
-![responsiveness](assets/images/responsiveness.png)
+![responsiveness](assets/images/amiresponsive.png)
 
 [Here is a link to my live site](https://nikhilkalhan92.github.io/The-Wrestling-Pub/)
 
@@ -120,16 +120,16 @@ I make use of google developer tools (Chrome DevTools) as debugging tools. Using
 I tested my website using Google Chrome Developer Tools Lighthouse feature, and received the results below for all 3 pages:
 
 - Home 
-![homelighthouse](assets/images/homepagelighthouse.png)
+![homelighthouse](assets/images/indexlighthouse.png)
 - Menu
 ![menu](assets/images/menulighthouse.png)
 - Contact
-![contact](assets/images/contactlighthousr.png)
+![contact](assets/images/contactlighthouse.png)
 
 ### Responsive Tools
 1. I used Am I Responsive to make sure that all my pages are responsive to all devices. Results are below
 
-![responsiveness](assets/images/responsiveness.png)
+![responsiveness](assets/images/amiresponsive.png)
 
 ### W3C Validator Tools
 W3C Markup was used to check for any errors within my HTML pages.
@@ -220,7 +220,7 @@ I have tested my site on multiple devices. These include:
 5. Ensure all Text Content is readable in the Menu page.
 6. Ensure all Text Content is readable in the Contact Us page.
 
-![responsive](assets/images/responsiveness.png)
+![responsive](assets/images/amiresponsive.png)
 
 **Deployment** 
 
@@ -235,12 +235,12 @@ I used GitHub pages to deploy my final project. To do this I had to:
 **Final Website**
 
 Home
-![home](assets/images/home.png)
+![home](assets/images/home1.png)
 Menu
-![menu](assets/images/menupage1.png)
-![menu2](assets/images/menupage2.png)
+![menu](assets/images/menu112.png)
+![menu2](assets/images/menu113.png)
 Contact
-![contact](assets/images/contact.png)
+![contact](assets/images/contact1.png)
 
 **How to fork a Respiratory**
 
