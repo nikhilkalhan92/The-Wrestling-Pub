@@ -113,14 +113,13 @@ nav ul li a{
 /* CONTACT US CSS  */
 .contact_sec_1{
     padding: 45px 0;
-    background: url(../images/contact.jpeg);
-    background-size: cover;
-    background-position: center center;
+    background-color: #f5f5f5;
+    
 }
 
 
 .contact_sec_1 ul li{
-    color: #deb887;
+    color: black;
     list-style: none;
     font-weight: bold;
 }
