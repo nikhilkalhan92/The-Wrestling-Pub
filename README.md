@@ -7,7 +7,7 @@
 
 ## Introduction 
 
-Welcome to my first project. The website is about a new wrestling bar in the heart of London. The website is a simple 3 tab url which will take the user the information they need. That would be About/Menu and Contact me page.
+Welcome to my first project. The website is about a new wrestling bar in the heart of London. The website is a simple 3 tab url which will tell the user the information they need. That would be About/Menu and Contact me page.
 
 I, as a big fan of wrestling thought this would be the perfect opportunity to make my first project wrestling based.
 
@@ -17,13 +17,6 @@ I, as a big fan of wrestling thought this would be the perfect opportunity to ma
 
 
 ## 1. Initial Design
-
-
-**Features**
-
-1. Background color of menu bar and foreground color were chosen considering the contrast between background and foreground colours
-2. Social media links (for facebook, Linkden, Twitter and Youtube) are placed at the bottom of the each page in the footer. All the links will open in a new tab.
-3. Quick information the user needs ( About, Menu and Openings)
 
 ### Final Design
 
@@ -82,10 +75,18 @@ The colours I have used are Burleywood and black. Both fitting colours which wou
 
 I feel like Burleywood suits the whole website, giving it the colour to attract the user at first glance.
 
+Smokey background for the contact page, so its very easy to see the address and map of where the location is held
+![smokey](assets/images/smokey.png)
+
+
+![burley](assets/images/burleywood.png)
+
 [Here is a link to my main color](https://www.color-name.com/burlywood.color)
 
 ### Features
-1. I have used the following features in this project
+1. Background color of menu bar and foreground color were chosen considering the contrast between background and foreground colours
+2. Social media links (for facebook, Linkden, Twitter and Youtube) are placed at the bottom of the each page in the footer. All the links will open in a new tab.
+3. Quick information the user needs ( About, Menu and Openings)
 
 ### Hover
 1. Tells the user the location of the mouse whilst navigating the menu.
@@ -275,6 +276,10 @@ https://www.dartdesign.in/images/portfolio/wwe_1.jpg
 https://media.istockphoto.com/vectors/empty-wrestling-sport-arena-boxing-ring-dramatic-sports-vector-vector-id938635868?k=6&m=938635868&s=612x612&w=0&h=qwI-UZ-GDmF-kpgk9SlgZMOAU3SUN3bsfBELudXEowU=
 
 https://www.dartdesign.in/images/portfolio/wwe_2.jpg
+
+https://www.colorcombos.com/colors/F5F5F5
+
+https://www.color-name.com/burlywood.color
 
 ## 6. Acknowledgments:
 
