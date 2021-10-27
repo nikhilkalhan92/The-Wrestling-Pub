@@ -76,6 +76,8 @@ The colours I have used are Burleywood and black. Both fitting colours which wou
 I feel like Burleywood suits the whole website, giving it the colour to attract the user at first glance.
 
 Smokey background for the contact page, so its very easy to see the address and map of where the location is held
+
+
 ![smokey](assets/images/smokey.png)
 
 
