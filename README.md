@@ -179,12 +179,12 @@ W3C Markup was used to check for any errors within my HTML pages.
 
 I have tested my site on multiple devices. These include:
 
-- Galaxy S5 (360 x 640)
-- iPhone 6/7/8 (375 x 667)
-- iPhone 6/7/8 plus (414 x 736)
-- ipad (768 x 1024)
+- Galaxy S5 
+- iPhone 6/7/8 
+- iPhone 6/7/8 plus 
+- ipad 
 - iPhone XS Max
-- iPad Pro (1024 x 1366)
+- iPad Pro 
 - Huawei P20 Pro
 - Please find below my testing process for all pages via mobile and web:
 
