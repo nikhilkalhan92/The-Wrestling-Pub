@@ -94,7 +94,7 @@ Smokey background for the contact page, so its very easy to see the address and 
 1. Tells the user the location of the mouse whilst navigating the menu.
 2. Helps the user not lose their place.
 
-### Technologies Used
+## 3. Technologies Used
 
 1. HTML5
 The project uses HyperText Markup Language.
@@ -117,7 +117,7 @@ GitHub was used to store the project's code after being pushed from Gitpush.
 7.  Google Developer Tools
 I make use of google developer tools (Chrome DevTools) as debugging tools. Using this tool i inspect for every elements that I added in HTML and CSS style. Once I was happy with, I copy the CSS style code from Chrome DevTools and paste in my CSS style sheet.
 
-## 3. Testing with Tools
+## 4. Testing with Tools
 
 ### Google Developer Tools
 I tested my website using Google Chrome Developer Tools Lighthouse feature, and received the results below for all 3 pages:
@@ -150,7 +150,7 @@ W3C Markup was used to check for any errors within my HTML pages.
  - I had a warning on my HTML Index page. Here it is below. After speaking to student support I realised that section does not need a heading, so it would be ok to leave it whilst explaining on my readme the situation.
  ![htmlindexerror](assets/images/htmlindexerror.png)
 
-## 4. Manual Testing ##
+## 5. Manual Testing ##
 
 ## User Story Telling ##
 
@@ -174,7 +174,7 @@ W3C Markup was used to check for any errors within my HTML pages.
 - Navigation bar is visible at the top of each page.
 - Site layout allows familar users of the site to find the contact us page.
 
-**Manual Testing**
+**Testing**
 
 I have tested my site on multiple devices. These include:
 
@@ -266,7 +266,7 @@ If you need to make a local clone:
 7. Type git clone and then paste the URL you copied in step 4.
 8. Press Enter, and your local clone will be created.
 
-## 5. Content
+## 6. Content
 
 ### Images
 Images are provided by Google Images - I have provided the links
@@ -283,7 +283,9 @@ https://www.colorcombos.com/colors/F5F5F5
 
 https://www.color-name.com/burlywood.color
 
-## 6. Acknowledgments:
+## 7. Acknowledgments:
+
+Thank you to my mentor Marcel, a fantastic help to me along this journey.
 
 
 
