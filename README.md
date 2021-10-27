@@ -70,23 +70,21 @@ I, as a big fan of wrestling thought this would be the perfect opportunity to ma
 ### Design
 
 ### Color Scheme
-The colours I have used are Burleywood and black. Both fitting colours which would suit the backgrounds on all three pages.
+The colours I have used are Burleywood and smoky white. Both fitting colours which would suit the backgrounds on all three pages.
 
 I feel like Burleywood suits the whole website, giving it the colour to attract the user at first glance.
-
-Smokey background for the contact page, so its very easy to see the address and map of where the location is held
-
-
-![smokey](assets/images/smokey.png)
-
 
 ![burley](assets/images/burleywood.png)
 
 [Here is a link to my main color](https://www.color-name.com/burlywood.color)
 
+Smokey background for the contact page, so its very easy to see the address and map of where the location is held
+
+![smokey](assets/images/smokey.png)
+
 ### Features
 1. Background color of menu bar and foreground color were chosen considering the contrast between background and foreground colours
-2. Social media links (for facebook, Linkden, Twitter and Youtube) are placed at the bottom of the each page in the footer. All the links will open in a new tab.
+2. Social media links (for Facebook, Instagram, Twitter and Youtube) are placed at the bottom of the each page in the footer. All the links will open in a new tab.
 3. Quick information the user needs ( About, Menu and Openings)
 
 ### Hover
@@ -234,16 +232,6 @@ I used GitHub pages to deploy my final project. To do this I had to:
 5. Click "Save", then wait for it to be deployed. 
 6. The URL will be displayed above the "source" section in GitHub Pages.
 
-**Final Website**
-
-Home
-![home](assets/images/home1.png)
-Menu
-![menu](assets/images/menu112.png)
-![menu2](assets/images/menu113.png)
-Contact
-![contact](assets/images/contact1.png)
-
 **How to fork a Respiratory**
 
 If you need to make a copy of a repository:
@@ -264,6 +252,16 @@ If you need to make a local clone:
 6. Change the current working directory to the new locaiton, where you want the cloned directory to be.
 7. Type git clone and then paste the URL you copied in step 4.
 8. Press Enter, and your local clone will be created.
+
+**Final Website**
+
+Home
+![home](assets/images/home1.png)
+Menu
+![menu](assets/images/menu112.png)
+![menu2](assets/images/menu113.png)
+Contact
+![contact](assets/images/contact1.png)
 
 ## 6. Content
 
