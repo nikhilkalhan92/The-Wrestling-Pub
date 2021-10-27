@@ -133,6 +133,8 @@ I tested my website using Google Chrome Developer Tools Lighthouse feature, and 
 1. I used Am I Responsive to make sure that all my pages are responsive to all devices. Results are below
 
 ![responsiveness](assets/images/amiresponsive.png)
+![responsive](assets/images/amiresponsivesecondpage.png)
+![responsive](assets/images/amiresponsive3rdpage.png)
 
 ### W3C Validator Tools
 W3C Markup was used to check for any errors within my HTML pages.
@@ -222,8 +224,6 @@ I have tested my site on multiple devices. These include:
 4. Ensure all Text Content is readable in the Home page.
 5. Ensure all Text Content is readable in the Menu page.
 6. Ensure all Text Content is readable in the Contact Us page.
-
-![responsive](assets/images/amiresponsive.png)
 
 **Deployment** 
 
