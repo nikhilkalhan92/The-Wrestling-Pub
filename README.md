@@ -11,10 +11,9 @@ Welcome to my first project. The website is about a new wrestling bar in the hea
 
 I, as a big fan of wrestling thought this would be the perfect opportunity to make my first project wrestling based.
 
-![responsiveness](assets/images/amiresponsive.png)
-
 [Here is a link to my live site](https://nikhilkalhan92.github.io/The-Wrestling-Pub/)
 
+![responsiveness](assets/images/amiresponsive.png)
 
 ## 1. Initial Design
 
