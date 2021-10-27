@@ -114,7 +114,7 @@ GitHub was used to store the project's code after being pushed from Gitpush.
 7.  Google Developer Tools
 I make use of google developer tools (Chrome DevTools) as debugging tools. Using this tool i inspect for every elements that I added in HTML and CSS style. Once I was happy with, I copy the CSS style code from Chrome DevTools and paste in my CSS style sheet.
 
-## 3. Automated testing
+## 3. Testing with Tools
 
 ### Google Developer Tools
 I tested my website using Google Chrome Developer Tools Lighthouse feature, and received the results below for all 3 pages:
@@ -134,6 +134,8 @@ I tested my website using Google Chrome Developer Tools Lighthouse feature, and 
 ### W3C Validator Tools
 W3C Markup was used to check for any errors within my HTML pages.
 
+- HTML Index Results - no errors
+  ![index](assets/images/indexhtmlnoerrors.png)
 - HTML Menu Results - no errors
  ![menu](assets/images/menuhtml.png)
 - HTML Contact Results - no erros
@@ -142,7 +144,7 @@ W3C Markup was used to check for any errors within my HTML pages.
  ![css](assets/images/cssnoerrors.png)
 
  ### Solved Bugs
- I had an error on my HTML Index page. Here it is below.
+ - I had a warning on my HTML Index page. Here it is below. After speaking to student support I realised that section does not need a heading, so it would be ok to leave it whilst explaining on my readme the situation.
  ![htmlindexerror](assets/images/htmlindexerror.png)
 
 ## 4. Manual Testing ##
