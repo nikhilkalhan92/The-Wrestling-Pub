@@ -47,6 +47,7 @@ nav ul li a{
 }
 .sec_1{
     width: 100%;
+    min-height: 65vh;
     padding: 120px 0;
     background: url(../images/ring.jpg);
     background-size: cover;
@@ -59,6 +60,8 @@ nav ul li a{
 
 }
 .banner_text p{
+    background-color: white;
+    padding: 5px;
     font-size: 24px;
     font-family: cursive;
     color: #deb887;
