@@ -14,11 +14,11 @@ body{
 header{
     width: 100%;
     min-height: 15vh;
-    background-color: green;
+    
 }
 footer {
     min-height: 20vh;
-    background-color: red;
+   
 }
 nav{
     width: 100%;
